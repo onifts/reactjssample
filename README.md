@@ -3,6 +3,7 @@
 > dev
 - npm install -g create-react-app
 - create-react-app react-sample
+- yarn add react-router-dom
 
 > user
 - yarn install
