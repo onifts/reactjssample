@@ -36,4 +36,13 @@
 
 > ※ redux는 react에서 사용하려고 만든 상태 관리 라이브러리지만, react에 의존하지는 않는다.
 
-
+> 상세 : 
+- Action 액션 
+{
+    type: "액션의 종류를 한번에 식별할 수 있는 문자열 혹은 심볼",
+    payload: "액션의 실행에 필요한 임의의 데이터",
+}
+{
+    type: "@@myapp/ADD_VALUE",
+    payload: 2,
+}
