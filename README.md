@@ -67,4 +67,7 @@
   - zip : action + status
 - Reducer 리듀서
   - action + status => Reducer => status(new)
- 
+
+> dev
+- yarn add redux react-redux
+
