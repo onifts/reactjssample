@@ -17,6 +17,7 @@
 - status 관리를 각 component에서 하는데... 
 - 할머니 component -> 엄마 component -> 딸 component, 아들 component 
   - (일은 결국 전달,전달해서 할머니가 다 한다. 가독성 떨어짐, 관리 어려움)
+  - (하위 자식이 각각 본인의 일을 따로 한다고 하면... 더 관리가 어려움)
 - 불필요한 rerendering 
 
 > react + redux
