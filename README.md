@@ -19,10 +19,10 @@
 - 불필요한 rerendering 
 
 > 개념 : 
-- Action
-- Action Creator
-- Reducer
-- Store
-- dispatch
-- subscribe
+- Action 액션 
+- Action Creator 액션 생성함수 
+- Reducer 리듀서 
+- Store 스토어 
+- dispatch 디스패치 
+- subscribe 구독 
 
