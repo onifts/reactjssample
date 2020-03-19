@@ -30,6 +30,7 @@
 - dispatch 디스패치 => store에 action을 전달하는 과정 
 - subscribe 구독 => status가 바뀌면, store를 구독하고 있는 component에 바로 전달한다. 
 - (추가) status 상태 
+- https://kbennycc.blogspot.com/2019/02/0113-react-redux.html
 
 > ※ redux는 react에서 사용하려고 만든 상태 관리 라이브러리지만, react에 의존하지는 않는다.
 
