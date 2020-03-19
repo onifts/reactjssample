@@ -11,6 +11,8 @@
 > 개념 : 
 - class component
 - function component
+- props, propType
+- state
 
 # +redux 
 > 정의 : 가장 사용률이 높은 상태관리 라이브러리 
