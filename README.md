@@ -5,3 +5,5 @@
 - create-react-app react-sample
 
 2. user
+- yarn install
+- yarn start
