@@ -78,11 +78,11 @@
 # react+reduc dev file structure 
 - /
   - src
-    - actions
-    - components
-    - contrainers
-    - reducers
-    - routes
-    - store
+    - actions // redux, action+action creator 
+    - components // react component
+    - contrainers // react component + redux action, status
+    - reducers // redux, reducers
+    - routes // react component
+    - store // redux store, one app one store 
 
 
