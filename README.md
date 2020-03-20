@@ -9,8 +9,6 @@
 - yarn install
 - yarn start
 - http://localhost:3001/
-- http://localhost:3001/class
-- http://localhost:3001/func
 
 > 개념 : 
 - class component
