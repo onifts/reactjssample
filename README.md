@@ -81,7 +81,7 @@
     - actions // redux, action+action creator 
     - components // react component
     - contrainers // react component + redux action, status
-    - reducers // redux, reducers
+    - reducers // redux, reducers (※Real Action Define)
     - routes // react component
     - store // redux store, one app one store 
 
