@@ -75,3 +75,14 @@
 3. Sample Code : Todo 
 - https://redux.js.org/basics/example
 
+# react+reduc dev file structure 
+- /
+  - src
+    - actions
+    - components
+    - contrainers
+    - reducers
+    - routes
+    - store
+
+
