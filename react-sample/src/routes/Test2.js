@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import logo from '../logo.svg';
+import '../App.css';
 
-import FuncSampleComponent from './components/FuncSampleComponent';
+import FuncSampleComponent from '../components/SampleCoponents/FuncSampleComponent';
 
 function Test2() {
   return (
