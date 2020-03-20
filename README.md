@@ -70,4 +70,8 @@
 
 > dev
 - yarn add redux react-redux
+1. Sample Code : Counter 
 - https://velog.io/@nibble/React-Redux%EB%A1%9C-Counter-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
+2. Sample Code : Board
+- https://forest71.tistory.com/184
+
