@@ -70,4 +70,4 @@
 
 > dev
 - yarn add redux react-redux
-
+- https://velog.io/@nibble/React-Redux%EB%A1%9C-Counter-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
