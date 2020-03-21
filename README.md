@@ -40,8 +40,8 @@
 - Action Creator 액션 생성함수 
 - Reducer 리듀서 => store에 전달된 action으로 status를 어떻게 변경할지 결정, 변경된 status는 store에 저장 
 - Store 스토어 => status 담는다. 
-- dispatch 디스패치 => store에 action을 전달하는 과정 (component -> store) 
-- subscribe 구독 => status가 바뀌면, store를 구독하고 있는 component에 바로 전달한다. (store -> component)
+- Dispatch 디스패치 => store에 action을 전달하는 과정 (component -> store) 
+- Subscribe 구독 => status가 바뀌면, store를 구독하고 있는 component에 바로 전달한다. (store -> component)
 - (추가) status 상태 
 - https://kbennycc.blogspot.com/2019/02/0113-react-redux.html
 
