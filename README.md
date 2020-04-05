@@ -11,7 +11,7 @@
     - http://library.gabia.com/contents/domain/713
   - https://a-tothe-z.tistory.com/21
 - yarn add react-addons-update // immutability helper
-  - # != immutable (yarn add immutable 비추)
+  - != immutable (yarn add immutable 비추)
   - https://dogbirdfoot.tistory.com/10
 
 > user
