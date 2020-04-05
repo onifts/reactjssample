@@ -85,7 +85,7 @@
 3. Sample Code : Todo 
 - https://redux.js.org/basics/example
 
-# react+reduc dev file structure 
+# react+redu dev file structure 
 - /
   - src
     - actions // redux, action+action creator 
