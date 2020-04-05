@@ -7,6 +7,7 @@
 - #yarn add react-router // 코어까지 들어있는 master 브랜치에 있는 라이브러리, 대신 작은 크기의 react-router-dom 사용함 
   - hashHistory (해시 기록) : #, react-router
   - browserHistory (브라우저 기록) : TLD(Top Level Domain), react-router
+    - http://library.gabia.com/contents/domain/713
 - https://a-tothe-z.tistory.com/21
 
 > user
