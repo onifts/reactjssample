@@ -4,12 +4,15 @@
 - npm install -g create-react-app
 - create-react-app react-sample
 - yarn add react-router-dom // react는 기본 SPA용, web용을 위해 route 별도 설치 필요 
-- #yarn add react-router // 코어까지 들어있는 master 브랜치에 있는 라이브러리, 대신 작은 크기의 react-router-dom 사용함 
+  - #yarn add react-router // 코어까지 들어있는 master 브랜치에 있는 라이브러리, 대신 작은 크기의 react-router-dom 사용함 
   - hashHistory (해시 기록) : #, react-router
   - browserHistory (브라우저 기록) : TLD, react-router
     - TLD (Top Level Domain)
     - http://library.gabia.com/contents/domain/713
-- https://a-tothe-z.tistory.com/21
+  - https://a-tothe-z.tistory.com/21
+- yarn add react-addons-update // immutability helper
+  - # != immutable (yarn add immutable 비추)
+  - https://dogbirdfoot.tistory.com/10
 
 > user
 - yarn install
