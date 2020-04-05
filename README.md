@@ -1,6 +1,6 @@
 # reactjs sample code 
 
-> dev
+> Dev
 - npm install -g create-react-app
 - create-react-app react-sample
 - yarn add react-router-dom // react는 기본 SPA용, web용을 위해 route 별도 설치 필요 
@@ -15,12 +15,12 @@
   - != immutable (yarn add immutable 비추)
   - https://dogbirdfoot.tistory.com/10
 
-> user
+> User
 - yarn install
 - yarn start
 - http://localhost:3000/
 
-> 개념 : 
+> KeyWord : 
 - class component
 - function component
 - props, propType
@@ -29,8 +29,8 @@
 - route
 - link
 
-# +redux 
-> 정의 : 가장 사용률이 높은 상태관리 라이브러리 
+# +Redux 
+> Def : 가장 사용률이 높은 상태관리 라이브러리 
 - (추가적으로 미들웨어 기능 포함?)
 - https://velog.io/@velopert/Redux-1-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-zxjlta8ywt
 
@@ -45,7 +45,7 @@
 - component 밖에서 store라는 객체 내부에 status를 담고 관리한다.
 - status에 어떤 변화를 일으켜야 하면, action을 store에 전달한다. 
 
-> 개념 : 
+> KeyWord : 
 - Action 액션 
 - Action Creator 액션 생성함수 
 - Reducer 리듀서 => store에 전달된 action으로 status를 어떻게 변경할지 결정, 변경된 status는 store에 저장 
@@ -76,7 +76,7 @@
 - Reducer 리듀서
   - action + status => Reducer => status(new)
 
-> dev
+> Dev
 - yarn add redux react-redux
 1. Sample Code : Counter 
 - https://velog.io/@nibble/React-Redux%EB%A1%9C-Counter-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
@@ -85,7 +85,7 @@
 3. Sample Code : Todo 
 - https://redux.js.org/basics/example
 
-# react+redux dev file structure 
+# React + Redux Dev File Structure 
 - /
   - src
     - actions // redux, action+action creator 
