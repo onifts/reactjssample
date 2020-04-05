@@ -11,6 +11,7 @@
     - http://library.gabia.com/contents/domain/713
   - https://a-tothe-z.tistory.com/21
 - yarn add react-addons-update // immutability helper
+  - Spread 연산자 (...) 대체 
   - != immutable (yarn add immutable 비추)
   - https://dogbirdfoot.tistory.com/10
 
